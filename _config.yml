@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ioannis Gkouzionis, MEng"
+title                    : "Ioannis Gkouzionis"
 title_separator          : "-"
 name                     : @name "Ioannis Gkouzionis"
 description              : @description "PhD candidate at Imperial College London"
