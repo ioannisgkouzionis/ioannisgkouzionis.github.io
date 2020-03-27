@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ioannis Gkouzionis"
+title                    : "Ioannis Gkouzionis, MEng"
 title_separator          : "-"
-name                     : "Ioannis Gkouzionis"
+name                     : "Ioannis Gkouzionis, MEng"
 description              : "PhD candidate at Imperial College London"
 url                      : https://ioannisgkouzionis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ioannis Gkouzionis, MEng"
+  name             : "Ioannis Gkouzionis"
   avatar           : "bioPhoto.jfif"
   bio              : "Leveraging technology for a better healthcare"
   location         : "London, UK"
