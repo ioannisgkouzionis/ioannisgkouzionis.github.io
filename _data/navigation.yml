@@ -17,8 +17,9 @@ main:
   - title: "Projects"
     url: /projects/
 
+
   - title: "CV"
-    url: /cv/
+    url: /cv/ # link to CV
   #
   - title: "About Ioannis"
     url: /
