@@ -10,6 +10,7 @@ tags:
 ---
 
 This is a blog post review on publications about Deep Learning in healthcare and medical imaging.
+
 Credits to [Weina Jin](https://weina.me/)
 
 ## General deep learning
