@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ioannis Gkouzionis, MEng"
 title_separator          : "-"
-name                     : @name Ioannis Gkouzionis"
+name                     : @name "Ioannis Gkouzionis"
 description              : @description "PhD candidate at Imperial College London"
 url                      : https://ioannisgkouzionis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
