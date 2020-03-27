@@ -1,8 +1,8 @@
 ---
 title: 'Reviews on Deep Learning in Healthcare and Medical Imaging Analysis'
 date: 2020-03-27
+#permalink: /posts/2012/08/blog-post-4/
 comments: true
-#permalink: /posts/2012/08/blog-post-1/
 tags:
   - bibliography
   - deep learning
