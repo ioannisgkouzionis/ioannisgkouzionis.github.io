@@ -10,4 +10,8 @@ redirect_from:
 
 ## About Ioannis
 
-Hi, I'm Ioannis. I'm a PhD student at the [Hamlyn Centre for Robotic Surgery](https://www.imperial.ac.uk/hamlyn-centre/) and the [Department of Surgery and Cancer](https://www.imperial.ac.uk/department-surgery-cancer) at [Imperial College London](https://www.imperial.ac.uk/). I'm working on Machine Learning, Deep Learning and Medical Imaging for image-guided interventions and cancer diagnosis and treatment. I'm specially interested in using **Artificial Intelligence (AI)** to assist surgeons with the complete resection of tumours. More specifically I try to leverage the power of **Hyperspectral Imaging (HSI)** to provide non-invasive, tissue contact-free and real-time diagnosis.
+Hi, I'm Ioannis. I'm a PhD student at the [Hamlyn Centre for Robotic Surgery](https://www.imperial.ac.uk/hamlyn-centre/) and the [Department of Surgery and Cancer](https://www.imperial.ac.uk/department-surgery-cancer) at [Imperial College London](https://www.imperial.ac.uk/). I'm working on Machine Learning, Deep Learning and Medical Imaging for image-guided interventions and cancer diagnosis and treatment. I'm specially interested in using **Artificial Intelligence (AI)** to assist surgeons with the complete resection of tumours. More specifically I try to leverage the power of **Hyperspectral Imaging (HSI)** to provide non-invasive, tissue contact-free and real-time diagnosis during cancer surgery.
+
+Previous I received my **Diploma of Engineering (Dipl.-Ing.)** in Electrical and Computer Engineering from [Technical University of Crete](https://www.tuc.gr/index.php?id=4992) and I completed my MSc thesis on *Machine Learning for the detection and classification of skin lesions in HSI*. I've also worked as Research Intern at [IMEC](https://www.imec-int.com/en/home) where I conducted research on *Deep Learning for automated segmentation of neurons in confocal microscopy imaging*.
+
+## Publications

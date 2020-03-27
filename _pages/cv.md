@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Clinical Medicine Research, Imperial College London, 2023 (expected)
+* M.Sc. in Electronic and Computer Engineering, Technical University of Crete, 2019
+* Dipl.-Ing. in Electrical and Computer Engineering, Technical University of Crete, 2017
 
 Work experience
 ======
