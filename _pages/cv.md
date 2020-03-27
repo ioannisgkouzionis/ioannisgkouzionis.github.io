@@ -17,24 +17,30 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan - Jun 2018: Laboratory Teaching Assistant
+  * Technical University of Crete
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Mar - May 2019: Research Intern
+  * IMEC
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Specialties
+  * Multi/Hyperspectral Imaging
+  * Machine Learning
+* Programming
+  * Python
+  * MATLAB
+  * C++
+  * SQL
+* Machine Learning
+  * TensorFlow
+  * PyTorch 
+  * Scikit-learn
+* Big Data
+  * Hadoop
+  * Spark
+  * Flink
 
 Publications
 ======
@@ -44,16 +50,16 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <!-- <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
