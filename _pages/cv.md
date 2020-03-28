@@ -15,7 +15,7 @@ redirect_from:
     </embed>
 </object>
 
-Education
+<!-- Education
 ======
 * Ph.D in Clinical Medicine Research, Imperial College London, 2023 (expected)
 * M.Sc. in Electronic and Computer Engineering, Technical University of Crete, 2019
@@ -52,7 +52,7 @@ Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 <!-- Talks
 ======
