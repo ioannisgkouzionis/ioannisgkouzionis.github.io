@@ -18,4 +18,4 @@ Previous I received my **Diploma of Engineering (Dipl.-Ing.)** in Electrical and
 
 I use the Python programming language and command line tools to explore, analyse, visualise and present data. I also have a strong interest in reproducibility, scientific publishing workflows, and open data best practices. I'm excited to apply my computational skills in combination with my Biophotonics and HSI background to the study and early diagnosis of cancer.
 
-## Publications
+<!-- ## Publications -->
