@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+<object data="https://ioannisgkouzionis.github.io/files/CV.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://ioannisgkouzionis.github.io/files/CV.pdf">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 Education
 ======
 * Ph.D in Clinical Medicine Research, Imperial College London, 2023 (expected)
