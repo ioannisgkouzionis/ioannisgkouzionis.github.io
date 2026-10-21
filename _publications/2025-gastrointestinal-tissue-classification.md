@@ -8,12 +8,12 @@ publication_type: Conference paper
 authors: Gkouzionis I., Giot M., Nazarian S., Darzi A., Patel N., Peters C. J., Elson D. S.
 doi: 10.1364/TRANSLATIONAL.2025.TM3F.3
 link: https://doi.org/10.1364/TRANSLATIONAL.2025.TM3F.3
-excerpt: Gkouzionis I., Giot M., Nazarian S., Darzi A., Patel N., Peters C. J., Elson D. S.
+excerpt: '**Gkouzionis I.**, Giot M., Nazarian S., Darzi A., Patel N., Peters C. J., Elson D. S.'
 ---
 
 **Conference paper · 2025**
 
-Gkouzionis I., Giot M., Nazarian S., Darzi A., Patel N., Peters C. J., Elson D. S.
+**Gkouzionis I.**, Giot M., Nazarian S., Darzi A., Patel N., Peters C. J., Elson D. S.
 
 *Optica Biophotonics Congress*.
 

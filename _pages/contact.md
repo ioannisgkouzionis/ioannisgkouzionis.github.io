@@ -11,8 +11,6 @@ For research collaborations, healthcare technology partnerships or speaking enqu
 * **Email:** [igkouzionis@tuc.gr](mailto:igkouzionis@tuc.gr)
 * **LinkedIn:** [Ioannis Gkouzionis](https://www.linkedin.com/in/ioannisgkouzionis/)
 
-Based in Chania, Greece.
-
 ## Research profiles
 
 * [Google Scholar]({{ site.author.googlescholar }})
