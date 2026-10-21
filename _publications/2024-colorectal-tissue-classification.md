@@ -8,12 +8,12 @@ publication_type: Journal article
 authors: Nazarian S., Gkouzionis I., Murphy J., Darzi A., Patel N., Peters C. J., Elson D. S.
 doi: 10.1097/JS9.0000000000001102
 link: https://doi.org/10.1097/JS9.0000000000001102
-excerpt: Nazarian S., Gkouzionis I., Murphy J., Darzi A., Patel N., Peters C. J., Elson D. S.
+excerpt: Nazarian S., **Gkouzionis I.**, Murphy J., Darzi A., Patel N., Peters C. J., Elson D. S.
 ---
 
 **Journal article · 2024**
 
-Nazarian S., Gkouzionis I., Murphy J., Darzi A., Patel N., Peters C. J., Elson D. S.
+Nazarian S., **Gkouzionis I.**, Murphy J., Darzi A., Patel N., Peters C. J., Elson D. S.
 
 *International Journal of Surgery*.
 

@@ -28,7 +28,7 @@ My work includes surgical instrument and spectroscopy-probe tracking, three-dime
 
 ## Research background
 
-* **2019–2024:** PhD in Clinical Medicine Research, Imperial College London.
+* **2019–2024:** PhD in Clinical Medicine Research, Imperial College London. Thesis: *A Hyperspectral Optical Surgical Tool for Circumferential Resection Margin Assessment in Gastrointestinal Cancer Surgery*.
 * **2017–2019:** Postgraduate research in computational and spectral imaging, Technical University of Crete.
 * **2012–2017:** MEng in Electrical & Computer Engineering, Technical University of Crete. Thesis: *Spectral Cube Reconstruction from Multiplexed Spatial and Spectral Data*.
 

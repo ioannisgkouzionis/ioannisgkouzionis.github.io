@@ -8,12 +8,12 @@ publication_type: Journal article
 authors: Nazarian S., Gkouzionis I., Kawka M., et al.
 doi: 10.1001/jamasurg.2022.3899
 link: https://doi.org/10.1001/jamasurg.2022.3899
-excerpt: Nazarian S., Gkouzionis I., Kawka M., et al.
+excerpt: Nazarian S., **Gkouzionis I.**, Kawka M., et al.
 ---
 
 **Journal article · 2022**
 
-Nazarian S., Gkouzionis I., Kawka M., et al.
+Nazarian S., **Gkouzionis I.**, Kawka M., et al.
 
 *JAMA Surgery*.
 

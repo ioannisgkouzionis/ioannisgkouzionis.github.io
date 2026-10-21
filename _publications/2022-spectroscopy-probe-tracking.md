@@ -8,12 +8,12 @@ publication_type: Journal article
 authors: Gkouzionis I., Nazarian S., Kawka M., Darzi A., Patel N., Peters C. J., Elson D. S.
 doi: 10.1117/1.JBO.27.2.025001
 link: https://doi.org/10.1117/1.JBO.27.2.025001
-excerpt: Gkouzionis I., Nazarian S., Kawka M., Darzi A., Patel N., Peters C. J., Elson D. S.
+excerpt: '**Gkouzionis I.**, Nazarian S., Kawka M., Darzi A., Patel N., Peters C. J., Elson D. S.'
 ---
 
 **Journal article · 2022**
 
-Gkouzionis I., Nazarian S., Kawka M., Darzi A., Patel N., Peters C. J., Elson D. S.
+**Gkouzionis I.**, Nazarian S., Kawka M., Darzi A., Patel N., Peters C. J., Elson D. S.
 
 *Journal of Biomedical Optics*.
 

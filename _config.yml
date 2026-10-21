@@ -88,6 +88,7 @@ author:
   bio              : "Researcher & entrepreneur in healthcare AI. Co-founder & CEO, Aisthesis Medical."
   location         : "Chania, Greece"
   employer         : "Aisthesis Medical"
+  employer_url     : "https://aisthesismed.com/"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=rzciLugAAAAJ&hl=en"
   email            : igkouzionis@tuc.gr
