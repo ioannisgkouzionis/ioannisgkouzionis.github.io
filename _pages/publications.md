@@ -5,14 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
+
+Selected journal articles and conference papers. The full research record is available on [Google Scholar]({{ site.author.googlescholar }}) and [ORCID]({{ site.author.orcid }}).
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
-<!-- You can also find my articles on [my Google Scholar profile](http://yourfullgooglescholarurl.com) -->

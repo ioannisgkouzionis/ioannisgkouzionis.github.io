@@ -1,25 +1,12 @@
-# main links links
+# Main navigation uses the existing Academic Pages masthead.
 main:
-
-  - title: "Blog Posts"
-    url: /year-archive/
-
   - title: "Publications"
     url: /publications/
-
-
-  # - title: "Talks"
-  #   url: /talks/
-
-  # - title: "Teaching"
-  #   url: /teaching/
-
-  #- title: "Projects"
-  #  url: /projects/
-
-
-  - title: "CV"
-    url: /cv/ # link to CV
-  #
-  #- title: "About Ioannis"
-  #  url: /
+  - title: "Research"
+    url: /research/
+  - title: "Experience"
+    url: /experience/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Contact"
+    url: /contact/
